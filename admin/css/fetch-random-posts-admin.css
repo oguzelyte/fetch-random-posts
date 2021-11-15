@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/* Style for the Dashboard blocks */
+.frp-example{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #00000054;
+    width: 80%;
+}

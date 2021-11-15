@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+/* style post entry */
+.random-post-entry{
+	border: 2px solid #071B28;
+	border-radius: 18px;
+	padding: 10px;
+}
+
+/* style user and post id fields */
+.random-post-user-id,
+.random-post-id{
+	font-size: 15px;
+}
+
+/* style post entry title */
+.random-post-title{
+	text-transform: uppercase;
+    	font-size: 18px;
+    	font-weight: 600;
+}
+
+/* style post body */
+.random-post-body{
+	font-size: 14px;
+   	font-style: italic;
+}
