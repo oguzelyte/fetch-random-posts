@@ -35,7 +35,7 @@ Displays random posts based on the 'count' and 'order' shortcode values.
 
 **Installation**
 
-1. Upload `fetch-random-posts.php` to the `/wp-content/plugins/` directory
+1. Download ZIP and upload `fetch-random-posts-main` it manually via the Plugin page
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place `[random_posts]` shortcode in your posts
 4. Use `count` or `order` as shortcode attributes
